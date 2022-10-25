@@ -4,10 +4,10 @@ In this project I created the front-end design of a music player in HTML, CSS an
 
 I have uploaded different files here :-
 
-index.html - It consists of the Home Page's html code of the Music Player.
-style.css - It consists of the styling for the html pages in CSS.
-script.js - It consists of the functioning javascript code for the index file.
-covers and songs -These are files which consists of all the required images and different music files included in the project.
+1. index.html - It consists of the Home Page's html code of the Music Player.
+2. style.css - It consists of the styling for the html pages in CSS.
+3. script.js - It consists of the functioning javascript code for the index file.
+4. covers and songs -These are files which consists of all the required images and different music files included in the project.
 
 
 Link: https://sanjuktabanik2001.github.io/Music-Player-Using-HTML-CSS-Javascript/
